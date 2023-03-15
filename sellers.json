@@ -1,0 +1,278 @@
+{
+  "address": "2125 Center Ave., #412, Fort Lee, NJ 07024",
+  "email": "contact@admaru.com",
+  "version": 1.0,
+  "sellers": [
+    {
+      "seller_id": "977550",
+      "name": "Wenxuecity",
+      "domain": "Wenxuecity.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "530695",
+      "name": "Worldjournal",
+      "domain": "Worldjournal.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "879471",
+      "name": "Backchina",
+      "domain": "Backchina.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "140710",
+      "name": "Chinatimes",
+      "domain": "Chinatimes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "820141",
+      "name": "ChineseinLA.com",
+      "domain": "ChineseinLA.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "117514",
+      "name": "UDN.com",
+      "domain": "UDN.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "405192",
+      "name": "LTN.com",
+      "domain": "LTN.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "860601",
+      "name": "Sinovision.com",
+      "domain": "Sinovision.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "217276",
+      "name": "Baike.com",
+      "domain": "Baike.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "849121",
+      "name": "Donga.com",
+      "domain": "Donga.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "938264",
+      "name": "joongang.co.kr",
+      "domain": "joongang.co.kr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "586979",
+      "name": "Huffingtonpost.kr",
+      "domain": "Huffingtonpost.kr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "630869",
+      "name": "Hani.co.kr",
+      "domain": "Hani.co.kr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "343270",
+      "name": "Dcinside.com",
+      "domain": "Dcinside.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "979261",
+      "name": "Yayabay.com",
+      "domain": "Yayabay.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "823348",
+      "name": "Thehindu.com",
+      "domain": "Thehindu.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "299009",
+      "name": "Hindustantimes.com",
+      "domain": "Hindustantimes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "735150",
+      "name": "Viendongdaily.com",
+      "domain": "Viendongdaily.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "805993",
+      "name": "HTlive.com",
+      "domain": "HTlive.com",
+      "seller_type": "PUBLISHER"
+    },	
+	 {
+      "seller_id": "326610",
+      "name": "Hankyung.com",
+      "domain": "Hankyung.com",
+      "seller_type": "PUBLISHER"
+    },	
+	 {
+      "seller_id": "589418",
+      "name": "moneycontrol.com",
+      "domain": "moneycontrol.com",
+      "seller_type": "PUBLISHER"
+    },	
+	 {
+      "seller_id": "857327",
+      "name": "24h.com.vn",
+      "domain": "24h.com.vn",
+      "seller_type": "PUBLISHER"
+    },	
+	 {
+      "seller_id": "133929",
+      "name": "Rappler.com",
+      "domain": "Rappler.com",
+      "seller_type": "PUBLISHER"
+    },	
+	 {
+      "seller_id": "232242",
+      "name": "Mwave.me",
+      "domain": "Mwave.me",
+      "seller_type": "PUBLISHER"
+    },	
+	{
+      "seller_id": "891934",
+      "name": "Chosun.com",
+      "domain": "Chosun.com",
+      "seller_type": "PUBLISHER"
+    },	
+	{
+      "seller_id": "435890",
+      "name": "koreatimes.com",
+      "domain": "koreatimes.com",
+      "seller_type": "PUBLISHER"
+    },	
+		 {
+      "seller_id": "683618",
+      "name": "Livemint.com",
+      "domain": "Livemint.com",
+      "seller_type": "PUBLISHER"
+    },	
+	{
+      "seller_id": "320137",
+      "name": "Firstpost.com",
+      "domain": "Firstpost.com",
+      "seller_type": "PUBLISHER"
+    },
+	
+	{
+      "seller_id": "541001",
+      "name": "douban.com",
+      "domain": "douban.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "140711",
+      "name": "missyusa.com",
+      "domain": "missyusa.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "849122",
+      "name": "khan.co.kr",
+      "domain": "khan.co.kr",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "735155",
+      "name": "dict.cn",
+      "domain": "dict.cn",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "700001",
+      "name": "Dramamilk.com",
+      "domain": "Dramamilk.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "700002",
+      "name": "ichannela.com",
+      "domain": "ichannela.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "700003",
+      "name": "Pandora.tv",
+      "domain": "Pandora.tv ",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "980001",
+      "name": "admaru.com",
+      "domain": "admaru.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "700004",
+      "name": "kmplayer.com",
+      "domain": "kmplayer.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "700005",
+      "name": "todayhumor.co.kr",
+      "domain": "todayhumor.co.kr",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "700006",
+      "name": "yna.co.kr",
+      "domain": "yna.co.kr",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "700007",
+      "name": "isplus.com",
+      "domain": "isplus.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "700008",
+      "name": "koreajoongangdaily.joins.com",
+      "domain": "koreajoongangdaily.joins.com",
+      "seller_type": "PUBLISHER"
+    },
+	{
+      "seller_id": "700009",
+      "name": "jtbc.co.kr",
+      "domain": "jtbc.co.kr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "700010",
+      "name": "Koreadaily",
+      "domain": "koreadaily.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "700011",
+      "name": "busan.com",
+      "domain": "busan.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "700012",
+      "name": "newsen.com,
+      "domain": "newsen.com",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+}
